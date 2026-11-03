@@ -253,7 +253,7 @@ The notebook reports the following ten features as the highest-ranked variables 
 
 #### Feature Importance Visualization
 
-![XGBoost Top 10 Feature Importance](reports/figures/xgboost_feature_importance_top10.png)
+![XGBoost Feature Importance](reports/figures/xgboost_feature_importance_top10.png)
 
 #### SHAP Summary Analysis
 
