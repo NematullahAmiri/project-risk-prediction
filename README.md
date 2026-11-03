@@ -176,7 +176,7 @@ The following results are taken from the executed notebook outputs.
 
 #### Model Performance Comparison
 
-![Model Performance Comparison](reports/figures/model_performance_comparison.png)
+![Model Performance Comparison](figures/model_performance_comparison.png)
 
 **Performance interpretation**
 
